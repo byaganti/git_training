@@ -6,6 +6,6 @@
 
 2. Dev Branch
 
-3. Int Branch
+3. In development branch
 
-4. Test on permissions
+4. updated the file
