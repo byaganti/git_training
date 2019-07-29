@@ -6,4 +6,4 @@
 
 2. Dev Branch
 
-3. In master branch
+3. In development branch
